@@ -1,6 +1,3 @@
-from math import sqrt
-from itertools import count, islice
-
 def is_prime(n):
     if n == 2:
         return True
