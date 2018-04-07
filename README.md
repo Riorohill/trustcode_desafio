@@ -1,6 +1,6 @@
 # trustcode_desafio
 Exercícios da Trustcode
-Todos feitos para python3.
+
 
 O primeiro exercício do desafio usa busca binária (bisect_left) para ser eficiente.
 Nada a salientar sobre o segundo.
